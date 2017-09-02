@@ -13,4 +13,7 @@
 //= require rails-ujs
 //= require turbolinks
 //= require jquery
+//= libs/metisMenu.min.js
+//= libs/raphael.min.js
+//= libs/morris.min.js
 //= require_tree .
